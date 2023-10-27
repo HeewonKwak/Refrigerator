@@ -1,0 +1,4 @@
+.env
+bigquery.json
+*.pyc
+*.csv
